@@ -1,0 +1,16 @@
+/* styles/ComicGenerator.module.css */
+.comicGenerator {
+    margin: 20px;
+  }
+  
+  .comicPanels {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+  }
+  
+  .comicPanels img {
+    max-width: 100%;
+    margin: 10px;
+  }
+  
